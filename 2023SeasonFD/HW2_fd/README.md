@@ -25,6 +25,8 @@ The goal of simple linear regression is to find the values of β₀ and β₁ th
 When we have more than one independent variable, we use multiple linear regression. The equation is extended as follows:
 
 
+Y = β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ + ε
+
 
 
 Here, X₁, X₂, ..., Xₙ represent the various independent variables, and β₁, β₂, ..., βₙ are their respective coefficients.
